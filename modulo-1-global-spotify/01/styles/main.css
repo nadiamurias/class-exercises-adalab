@@ -1,0 +1,15 @@
+* {
+  margin: 2px;
+  border: 2px solid blue;
+  box-sizing: border-box;
+}
+.header {
+  background-color: black;
+}
+.logo {
+  width: 200px;
+}
+li {
+  margin: 15px;
+  display: inline;
+}
